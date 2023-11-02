@@ -2,6 +2,9 @@
 
 A 2D platformer game project developed using Unity. Features multiple levels, life system, interactive menus.
 
+![Preview Image 1](https://github.com/Dxnixl664/2DPlatformerUnityProject/blob/main/image2.png)
+![Preview Image 2](https://github.com/Dxnixl664/2DPlatformerUnityProject/blob/main/image1.png)
+
 # 2D Platformer Unity Project
 
 ## Description
